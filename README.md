@@ -31,7 +31,7 @@ This is a React Native application built using Expo, designed to display job lis
 
 ## Setup
 
-To run the app locally, ensure you have Expo CLI installed on your machine:
+To run the app locally
 
 ```
 # clone
