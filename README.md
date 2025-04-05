@@ -35,7 +35,7 @@ To run the app locally, ensure you have Expo CLI installed on your machine:
 
 ```
 # clone
-git clone [https://github.com/your-username/react-native-job-board.git](https://github.com/Harendrasingh1/Job-Finder-App.git)
+git clone https://github.com/Harendrasingh1/Job-Finder-App/tree/master
 
 
 # run command
