@@ -22,7 +22,7 @@ This is a React Native application built using Expo, designed to display job lis
 ## 🔗 Demo
 
 https://github.com/your-username/react-native-job-board  
-📹 [Watch Demo Video]([https://your-demo-link.com](https://drive.google.com/file/d/1cYv0kmq3T3HE4z8l8U25q5p3PTCTa5vy/view?usp=sharing))
+📹 [Watch Demo Video](Demo%20Video%20and%20Images/Job%20Finder%20Demo%20Video.mp4)
 
 ## 📷 Screenshots
 ### Job Available
