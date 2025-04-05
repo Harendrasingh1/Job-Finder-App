@@ -24,10 +24,10 @@ This is a React Native application built using Expo, designed to display job lis
 ## 📷 Screenshots
 ### Job Available
 
- ![Jobs Screen](Demo%20Video%20and%20Images/Job%20Finder%20windor%20image%20(1).png)
+ ![Jobs Screen](Demo%20Video%20and%20Images/Job%20Finder%20windor%20image%20(2).png)
 
 ### Bookmarks
- ![Bookmarks Screen](Demo%20Video%20and%20Images/Job%20Finder%20windor%20image%20(2).png) -->
+ ![Bookmarks Screen](Demo%20Video%20and%20Images/Job%20Finder%20windor%20image%20(1).png) -->
 
 ## Setup
 
